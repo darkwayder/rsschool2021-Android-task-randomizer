@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">randomizer</string>
+    <string name="generate">Generate</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="result1">Result:</string>
+    <string name="result2">Result:</string>
+    <string name="back">Back</string>
 </resources>
